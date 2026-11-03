@@ -2,7 +2,7 @@
 
 A complete, step-by-step curriculum designed to take you from **Core Java** fundamentals to building **Cloud-Native, AI-powered Microservices** with full **DevOps** automation.
 
-> 📺 **Reference Video Course:** [Watch the Full Course on YouTube](https://youtu.be/q6z_UCBM5Ek?si=h_CE07BHLGpy_avz)
+> 📺 **Reference Video Course:** [Watch the Full Course on YouTube](https://youtu.be/q6z_UCBM5Ek?si=h_CE07BHLGpy_avz) 65 Hours Video
 
 ---
 
