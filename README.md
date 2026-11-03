@@ -207,6 +207,3 @@ Use the checkboxes below (`- [ ]`) to track your learning progress directly in y
 
 
 
-## 🤝 Contributing
-
-Feel free to fork this repository, check off items as you complete them, and add your own notes or project links under each module!
