@@ -1,6 +1,5 @@
-# ☕ Java — Explained Like a Friend Would
+# ☕ Java
 
-No textbook talk. Just plain answers to four simple questions:
 
 - Why is Java so popular?
 - Where did Java come from?
