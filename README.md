@@ -1,8 +1,8 @@
-# ☕ Ultimate Java Developer Roadmap
+# ☕ Ultimate Java Backend Developer Roadmap
 
 A complete, step-by-step curriculum designed to take you from **Core Java** fundamentals to building **Cloud-Native, AI-powered Microservices** with full **DevOps** automation.
 
-> 📺 **Reference Video Course:** [Watch the Full Course on YouTube](https://youtu.be/q6z_UCBM5Ek?si=h_CE07BHLGpy_avz)
+> 📺 **Reference Video Course:** [Watch the Full Course on YouTube](https://youtu.be/q6z_UCBM5Ek?si=h_CE07BHLGpy_avz) 65 Hours Video
 
 ---
 
@@ -207,6 +207,3 @@ Use the checkboxes below (`- [ ]`) to track your learning progress directly in y
 
 
 
-## 🤝 Contributing
-
-Feel free to fork this repository, check off items as you complete them, and add your own notes or project links under each module!
