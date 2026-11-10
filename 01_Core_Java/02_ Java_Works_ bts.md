@@ -195,6 +195,32 @@ This is important when you distribute your application.
 
 ---
 
+## 🔄 Java Versions, LTS & the Developer's JDK
+
+As a developer, the **JDK is essential** — it is your main toolkit. Here is why, and how versions work.
+
+### Installing a new JDK
+
+- When you install a **new JDK**, you automatically get the **updated JRE and JVM** that come with it.
+- So you don't install the JRE and JVM separately — the JDK bundles them together.
+
+### LTS versions (Long-Term Support)
+
+- Most people use an **LTS version** of Java.
+- LTS versions are **stable, well-supported, and receive updates for a long time**.
+- They are the safe choice for real projects and production use.
+
+### How new versions work
+
+- Every new Java version brings **minor features and updates**.
+- But the **base remains the same**.
+- And the **core concepts never change** — the fundamentals you learn stay valid across all versions.
+
+> 💡 **In short:** Install the JDK (preferably an LTS version), and you get JRE + JVM + tools together. New versions add small features, but the core of Java stays the same.
+
+---
+
+
 ## ✨ WORA — Write Once, Run Anywhere
 
 This is the big promise of Java.
