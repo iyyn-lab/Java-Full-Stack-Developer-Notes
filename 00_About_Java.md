@@ -110,12 +110,5 @@ Companies don't pick languages because they're fun. They pick them because they'
 
 ---
 
-## 📝 TL;DR (Too Long, Didn't Read)
 
-> Java is popular because it's **portable and safe**.  
-> It started in **1991 as "Oak"** and became Java in **1995**.  
-> It feels hard because it's **strict and wordy** — but that's also why companies trust it with their most important systems.  
-> Big companies pick Java because it's **stable, secure, everywhere, and never breaks old code**.
-
----
 
