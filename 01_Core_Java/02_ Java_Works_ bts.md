@@ -116,7 +116,24 @@ class Hello {
 }
 ```
 
-### Step 1 — Compile the file
+---
+
+## 🛠️ Compile & Run: The Syntax
+
+Once your `.java` file is ready, you need **two commands** — one to **compile** and one to **run**.
+
+### 📘 General Syntax
+
+| Step | Command | What it does |
+| :--- | :--- | :--- |
+| **Compile** | `javac <filename>.java` | Converts the `.java` file into a `.class` (bytecode) file |
+| **Run** | `java <classname>` | Tells the JVM to execute the class |
+
+> ⚠️ **Important:** While compiling, use the **file name** with `.java` extension. While running, use the **class name** — **without** any extension.
+
+### ✅ Example (using `Hello.java`)
+
+**Step 1 — Compile the file**
 
 ```shell
 javac Hello.java
@@ -124,13 +141,22 @@ javac Hello.java
 
 This produces a `Hello.class` file (bytecode).
 
-### Step 2 — Run the program
+**Step 2 — Run the program**
 
 ```shell
 java Hello
 ```
 
-> **Note:** Use the **class name** (`Hello`), **not** the file name (`Hello.java`), when running.
+This starts the JVM, which reads `Hello.class` and prints the output.
+
+### 🔍 Spot the difference
+
+| Command | What you type after it | Example |
+| :--- | :--- | :--- |
+| `javac` | **File name** with `.java` | `javac Hello.java` |
+| `java` | **Class name** (no extension) | `java Hello` |
+
+> 💡 **Remember:** `javac` compiles (file name), `java` runs (class name).
 
 ---
 
@@ -219,7 +245,6 @@ As a developer, the **JDK is essential** — it is your main toolkit. Here is wh
 > 💡 **In short:** Install the JDK (preferably an LTS version), and you get JRE + JVM + tools together. New versions add small features, but the core of Java stays the same.
 
 ---
-
 
 ## ✨ WORA — Write Once, Run Anywhere
 
